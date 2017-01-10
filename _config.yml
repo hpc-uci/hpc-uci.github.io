@@ -1,0 +1,17 @@
+permalink:           pretty
+
+# Setup
+title:               HPC @ UC Irvine
+tagline:             Documentation
+description:         HPC Documentation
+url:                 https://hpc-uci.github.io/
+paginate:            5
+
+# About/contact
+author:
+  name:              HPC Support
+  url:               https://hpc.oit.uci.edu
+  email:             hpc-support@uci.edu
+
+github:
+  repo:              https://github.com/hpc-uci/hpc-uci.github.io
